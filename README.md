@@ -1,128 +1,159 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366F1,100:06B6D4&height=230&section=header&text=Muhammad%20Zain%20Ul%20Abideen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Muhammad%20Zain%20Ul%20Abideen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Engineering+AI-powered+products+and+agents;Automating+workflows+with+n8n+%26+Make" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications+%F0%9F%92%BB;Engineering+AI-powered+products+and+agents+%F0%9F%A4%96;Automating+workflows+with+n8n+%26+Make+%E2%9A%A1;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile views"/>
 </div>
 
-<br/>
+<h1 align="center">Hello 👋 I'm Muhammad Zain Ul Abideen</h1>
 
-## 👋 About Me
+🌟 I'm an **AI Full Stack Developer** and **AI Engineer**. I build full-stack web applications and AI-powered products, from intelligent features and agents to end-to-end business automation. I'm always exploring new ways to combine **AI + automation + code** to ship real products.
 
-I'm **Muhammad Zain Ul Abideen**, an **AI Full Stack Developer** and **AI Engineer**. I build fast, scalable web applications and weave AI into them, from intelligent features to end-to-end business automation.
+<div align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
 
-```yaml
-name: Muhammad Zain Ul Abideen
-role: AI Full Stack Developer & AI Engineer
-focus: Web apps, AI integration, workflow automation
-building: AI-powered products & automations for businesses
-learning: Advanced AI integrations & scalable automation systems
-philosophy: Where no-code speed meets custom-code power
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-<br/>
-
-## ⚡ What I Do
+## 💫 About Me
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Development</h3>
-      <p>Responsive, production-ready web applications with <b>React</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, and <b>Python</b>, backed by clean APIs and <b>SQL</b> databases.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Engineering</h3>
-      <p>LLM-powered features, AI agents, and intelligent integrations that turn raw models into real products and measurable business value.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Automation</h3>
-      <p>Custom workflows with <b>n8n</b> and <b>Make</b> that connect tools, data, and AI to remove manual work and scale operations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 WordPress & No-Code</h3>
-      <p>Polished, high-converting websites on <b>WordPress</b>, <b>Wix Studio</b>, and <b>Framer</b> for teams that need speed without compromising design.</p>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+🌱 I'm currently learning **advanced AI integrations** and scalable automation systems<br/><br/>
+🔭 I'm currently building **AI-powered automations** with n8n & Make<br/><br/>
+💬 Ask me about **Full Stack Development, AI Engineering, Python, React, WordPress**<br/><br/>
+⚡ Interested in **LLMs, AI Agents, Workflow Automation, No-Code + Custom Code**<br/><br/>
+✨ I love turning ideas into products
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="assets/po-collage.png" alt="Panda collage" width="100%"/>
+
+</td>
+</tr>
 </table>
 
-<br/>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-**Languages & Frontend**
+<h2 align="center">⚡ What I Do</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="56"/><br/>
+<b>Full-Stack Development</b><br/>
+<sub>Responsive web apps with React, Tailwind, Python & SQL</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="56"/><br/>
+<b>AI Engineering</b><br/>
+<sub>LLM features, AI agents & intelligent integrations</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/automation.png" width="56"/><br/>
+<b>AI Automation</b><br/>
+<sub>Custom n8n & Make workflows that save hours</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/design.png" width="56"/><br/>
+<b>WordPress & No-Code</b><br/>
+<sub>High-converting sites on WordPress, Wix Studio & Framer</sub>
+</td>
+</tr>
+</table>
 
-**AI, Automation & No-Code**
+<h2 align="center">📚 Languages & Tools I Have Placed My Hands On</h2>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Wix Studio](https://img.shields.io/badge/Wix_Studio-0C6EFC?style=flat-square&logo=wix&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,react,tailwind,wordpress,figma,git,github,vscode,postman&perline=7"/>
+</p>
 
-**Tools & Platforms**
+<h2 align="center">💻 Tech Stack:</h2>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAKE-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WIX_STUDIO-0C6EFC?style=for-the-badge&logo=wix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## 🔑 Expertise
+<h2 align="center">🚀 Featured Projects</h2>
 
-`AI Engineering` · `Full-Stack Development` · `LLM Integration` · `AI Agents` · `Prompt Engineering` · `Workflow Automation` · `REST APIs` · `Responsive Web Design` · `WordPress Development` · `No-Code Solutions` · `Business Process Automation`
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/your-username/wapradaiya"><img src="https://placehold.co/600x340/0f172a/06B6D4/png?text=Wapradaiya" width="100%"/></a><br/>
+<b>🌐 Wapradaiya</b><br/>
+<sub>Dark-mode web design agency website</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css&theme=dark" height="30"/>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/your-username/air-university-gpa-tracker"><img src="https://placehold.co/600x340/0f172a/6366F1/png?text=GPA+Tracker" width="100%"/></a><br/>
+<b>🎓 Air University GPA Tracker</b><br/>
+<sub>Track and calculate your GPA with ease</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="30"/>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/your-username/project-three"><img src="https://placehold.co/600x340/0f172a/EA4B71/png?text=AI+Automation" width="100%"/></a><br/>
+<b>🤖 Project Three</b><br/>
+<sub>One-line summary of what it does</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,react&theme=dark" height="30"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| **[Project One](https://github.com/your-username/project-one)** | One-line summary of what it does and the problem it solves. | React · Python |
-| **[Project Two](https://github.com/your-username/project-two)** | One-line summary of what it does and the problem it solves. | n8n · OpenAI |
-| **[Project Three](https://github.com/your-username/project-three)** | One-line summary of what it does and the problem it solves. | WordPress · PHP |
-
-<br/>
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="48%"/>
 </div>
 
-<br/>
+<h2 align="center">🔑 Expertise</h2>
 
-## 🤝 Let's Connect
+<p align="center">
+  <code>AI Engineering</code> · <code>Full-Stack Development</code> · <code>LLM Integration</code> · <code>AI Agents</code> · <code>Prompt Engineering</code> · <code>Workflow Automation</code> · <code>REST APIs</code> · <code>Responsive Web Design</code> · <code>WordPress Development</code> · <code>No-Code Solutions</code>
+</p>
 
-<div align="center">
+<h2 align="center">Support Me 💰</h2>
 
-Open to AI projects, automation challenges, and full-stack builds.
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-handle"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+</p>
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Let's_Talk-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<h2 align="center">🤝 Let's Connect</h2>
 
-</div>
+<p align="center">
+  Open to AI projects, automation challenges, and full-stack builds.<br/><br/>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Let's_Talk-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:0f172a&height=110&section=footer" width="100%"/>
